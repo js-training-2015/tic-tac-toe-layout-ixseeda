@@ -1,0 +1,25 @@
+.game-nav-link {
+  margin-right: 5px;
+  color:white !important;
+}
+
+.game-nav-link:hover {
+  color: black !important;
+}
+
+.score {
+  margin-top: 20px;
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+}
+  
+.game_cell {
+  background-color: #90C3D4;
+  padding-top: 33%;
+  border: solid 2px white;
+}
+
+.navbar-default {
+  background-color: #527885;
+}
